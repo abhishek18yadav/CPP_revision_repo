@@ -28,7 +28,7 @@ string removeStars(string s) {
 
 int main(){
 
-    string result = removeStars("erase*****");
+    string result = removeStars("esrase*****");
     cout<<result<<endl;
     return 0;
 }
