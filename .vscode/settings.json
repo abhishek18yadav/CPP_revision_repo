@@ -1,7 +1,3 @@
 {
-    "files.associations": {
-        "*.dbclient-js": "javascript",
-        "iostream": "cpp"
-    },
     "snyk.advanced.autoSelectOrganization": true
 }
